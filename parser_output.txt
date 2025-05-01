@@ -1,0 +1,21 @@
+File name:  Cap-Part3-Small.pcap
+Local IP:  129.74.152.86
+Remote IP:  10.33.154.65
+Port:  80
+
+Total packets matching criteria: 598
+Largest packet size: 1436 bytes
+Local MSS: 1382
+Remote MSS: 1460
+
+Pure ACKs - Local: 5, Remote: 74
+
+Handshake RTT: 0.012325 seconds (12.325000 ms)
+
+RTT Statistics:
+  Total RTT measurements found: 513
+  Mean RTT: 3.279173489278752436647173489 ms
+  Median RTT: 0.351000 ms
+  Min RTT: 0.033000 ms
+  Max RTT: 11.827000 ms
+
